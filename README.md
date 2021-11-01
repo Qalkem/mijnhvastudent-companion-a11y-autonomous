@@ -10,15 +10,17 @@ Voor sprint 3 All Human  hebben wij als doel om onze website zo accecible mogeli
 Het is ook de bedoeling dat de website ook met de screenreader toegankelijk is. Verder is het van belang dat  de website een accesiibility score heeft van: AAA
 ## Inhoudsopgave
 
-- [Titel](#titel)
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
-
+ 
 ## Kenmerken
+toegangkelijk voor screenreaders
+AAA score voor ACCESSIBILITY
+Camelcasing toepassen
+Comments plaatsen
+Duidelijke class namen
+Goede leesbaarheid hanteren
+geen cijfers in ID
+Huisstijl van mijn HvA Responsive( voor mobiele versie) een topbar
+
 
 ## Installatie
 
