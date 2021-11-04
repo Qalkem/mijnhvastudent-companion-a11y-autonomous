@@ -1,7 +1,12 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-Sprint 3 All Human / web 4 everyone
+# Rapportage webtoegankelijkheid-test voor MijnHvA Companion
+Datum webtoegankelijkheid-test: 25/10/2021
+
+Webtoegankelijkheid-test uitgevoerd door: Shauri, Jean en Boudewijn
+
+![image](https://user-images.githubusercontent.com/76013244/140286494-b2b47c5c-5aaa-4bc0-bc96-d1a8340a77cf.png)
+
 
 ## Beschrijving
 https://github.com/fdnd-task/mijnhvastudent-companion-a11y-autonomous
